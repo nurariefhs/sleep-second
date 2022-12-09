@@ -1,0 +1,23 @@
+{
+  "name": "sleep-second",
+  "version": "1.0.0",
+  "description": "sleep execution in second",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sleep",
+    "second",
+    "sleep-second",
+    "sleep second",
+    "pause",
+    "sleep-promise"
+  ],
+  "author": "Nur Arief HS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurariefhs/sleep-second/issues"
+  },
+  "homepage": "https://github.com/nurariefhs/sleep-second#readme"
+}
